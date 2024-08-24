@@ -24,7 +24,7 @@ I'm eager to collaborate on projects that:
 ### 😄 Pronouns
 
 ### ⚡ Fun Fact
-When I'm not coding, you can find me experimenting with **new CSS animations** or **playing around with WebGL** to create interactive web experiences. I also enjoy contributing to the web development community by writing blogs and sharing tips and tricks on [your blog or social media].
+When I'm not coding, you can find me experimenting with **new CSS animations** or **playing around with WebGL** to create interactive web experiences. I also enjoy contributing to the web development community by writing blogs and sharing tips and tricks on [linkin & twitter].
 
 ---
 
